@@ -1,26 +1,11 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Did you ever had the chance to experience all of the news happening in the whole world in a single page?
 
+Location based news with sentimental analysis displayed on Google maps.
 
-Hi there! Welcome to Cloud9 IDE!
+Explore it!!!
 
-To get you started, we included a small hello world application.
+Support & Documentation
 
-1) Open the hello-world.html file
+Visit https://feedtomap-coderpujan.c9users.io/index.html for experiencing News Feed in A completely different way
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Have a Good Day !!
